@@ -1,0 +1,2 @@
+model_ready,measure,known_model_rows,distinct_measure_values,reason
+TRUE,Day-weighted mean monthly count of reported conservation actions,466,235,Exploratory reported-activity count varies; not a restriction-intensity measure.

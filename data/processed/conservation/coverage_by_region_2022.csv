@@ -1,0 +1,11 @@
+region,modeled_rows,any_reporting_match,all_four_reports,all_four_restriction_values_known,distinct_known_restriction_values,all_four_measure_counts_known,distinct_known_measure_counts,assumed_binary_yes,assumed_binary_no,assumed_binary_mixed,assumed_binary_unknown
+hr_central_coast,187,36,36,30,1,35,26,30,4,1,152
+hr_colorado_river,58,20,19,10,1,19,13,10,7,2,39
+hr_north_coast,107,21,21,11,1,19,12,11,8,0,88
+hr_north_lahontan,18,8,8,7,1,7,3,7,0,0,11
+hr_sacramento_river,185,66,65,45,1,62,31,45,14,3,123
+hr_san_francisco_bay,105,55,55,43,1,54,40,43,6,5,51
+hr_san_joaquin_river,129,47,46,23,1,41,24,23,8,10,88
+hr_south_coast,301,190,184,137,1,176,134,137,25,14,125
+hr_south_lahontan,82,24,23,17,1,21,12,17,4,0,61
+hr_tulare_lake,110,36,35,30,1,32,20,30,1,1,78

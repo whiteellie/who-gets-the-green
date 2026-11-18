@@ -1,0 +1,48 @@
+action,category
+Raising rates,demand_reduction
+Apply drought surcharges,demand_reduction
+Reduced allocations (for agencies with budget-based rates),demand_reduction
+Residential water audits,demand_reduction
+CII water audits,demand_reduction
+Expanded existing rebate program,demand_reduction
+Rationing,demand_reduction
+Turf replacement/rebate,demand_reduction
+Demand Reduction Other,demand_reduction
+Weekly watering restrictions,use_restrictions
+Use type restrictions,use_restrictions
+Excessive irrigation of outdoor landscapes,use_restrictions
+Washing a motor vehicle with a hose not fitted with a shut-off nozzle,use_restrictions
+Application of potable water directly to driveways or sidewalks,use_restrictions
+Use of potable water in decorative water features,use_restrictions
+The application of water to irrigate turf and ornamental landscapes during and within 48 hours after measurable rainfall,use_restrictions
+Restrictions Other,use_restrictions
+Not serving drinking water other than upon request in eating or drinking establishments,use_restrictions
+Operators of hotels and motels providing guests with the option of choosing not to have towels and linens laundered daily,use_restrictions
+Requiring water-efficient and drought-tolerant landscaping,use_restrictions
+Industry Other,use_restrictions
+E-mails,communication
+Paper mail,communication
+Notifications via Customer App,communication
+Website,communication
+Articles/News releases,communication
+Youtube,communication
+Facebook,communication
+Instagram,communication
+Other Social Media,communication
+Community events,communication
+Door hanger,communication
+Workshops,communication
+Television,communication
+Radio,communication
+Billboard,communication
+Paid Media Advertising,communication
+Bus shelter,communication
+Communication Other (Fill-in),communication
+Assigned a different rate tier,enforcement_actions
+Fine,enforcement_actions
+Penalty Other,enforcement_actions
+Notification via Door hanger,enforcement_actions
+Notification via Letter,enforcement_actions
+Notification via Other,enforcement_actions
+Notification via Phone call,enforcement_actions
+Notification via customer app,enforcement_actions
