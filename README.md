@@ -2,7 +2,7 @@
 
 [![V3 poster: Who Gets the Green?](assets/infographic_v3_preview.png)](outputs/infographic_v3.pdf)
 
-[View the poster (PDF)](outputs/infographic_v3.pdf) · [Download the editable poster (PowerPoint)](outputs/infographic_v3.pptx)
+[View the poster (PDF)](outputs/infographic_v3.pdf)
 
 ## Project overview
 
